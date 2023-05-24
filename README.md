@@ -3,4 +3,4 @@ Repository for practicing Git
 
 ## Header 2
 
-Some plain text
+Some plain text...
